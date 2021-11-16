@@ -1,0 +1,27 @@
+2021-10-21 10:50:38,448  INFO [main] homepage:43 - clicked
+2021-10-21 10:50:42,905 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2021-10-21 10:50:42,908 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2021-10-21 10:50:42,921 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2021-10-21 10:50:42,923 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2021-10-21 10:50:42,926 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/MITALI/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2021-10-21 10:54:12,649  INFO [main] homepage:44 - clicked
+2021-10-21 10:54:13,589 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2021-10-21 10:54:13,592 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2021-10-21 10:54:13,596 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2021-10-21 10:54:13,602 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2021-10-21 10:54:13,606 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/MITALI/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2021-10-21 10:55:57,610  INFO [main] homepage:44 - clicked
+2021-10-21 10:57:14,436  INFO [main] homepage:44 - clicked
+2021-10-21 10:58:18,768  INFO [main] homepage:44 - clicked
+12:58:04,000  INFO com.mindtree.runner.homepage<strong>{1}</strong>:45 -clicked
+13:00:49,382  INFO com.mindtree.runner.homepage<strong>{1}</strong>:45 -clicked
+13:42:28,408  INFO com.mindtree.runner.homepage<strong>{1}</strong>:45 -clicked
+13:46:29,904  INFO com.mindtree.runner.homepage<strong>{1}</strong>:45 -clicked
+13:51:29,681  INFO com.mindtree.runner.homepage<strong>{1}</strong>:45 -clicked
+14:15:35,202  INFO com.mindtree.runner.homepage<strong>{1}</strong>:45 -clicked
+14:20:51,886  INFO com.mindtree.runner.homepage<strong>{1}</strong>:45 -clicked
+14:23:05,201  INFO com.mindtree.runner.homepage<strong>{1}</strong>:45 -clicked
+14:26:25,201  INFO com.mindtree.runner.homepage<strong>{1}</strong>:45 -clicked
+14:29:42,465  INFO com.mindtree.runner.homepage<strong>{1}</strong>:51 -clicked
+14:38:53,568  INFO com.mindtree.runner.homepage<strong>{1}</strong>:51 -clicked
+14:44:59,373  INFO com.mindtree.runner.homepage<strong>{1}</strong>:51 -clicked
